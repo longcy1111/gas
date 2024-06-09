@@ -1,12 +1,12 @@
 import streamlit as st
-st.title("龙春燕统治世界")
+st.title("网易请加强守夜人")
 st.title("Hello, 2208!")
 st.header("You need to learn some basic operations")
 st.subheader("eg, Visual Studio Code")
 st.text("It's not that hard")
 
 st.markdown("this is an image: \n \
-            ![](https://www.tjnu.edu.cn/__local/2/AE/41/C1274DD9685B10B9F814C69BEDB_84ADD00D_88D66.png)")
+            ![](file:///C:/Users/19385/Downloads/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240609131145.png)")
 
 if st.checkbox("Show/Hide"):
     st.text("You checked the box")
