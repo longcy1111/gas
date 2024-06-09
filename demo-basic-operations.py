@@ -6,7 +6,7 @@ st.subheader("eg, Visual Studio Code")
 st.text("It's not that hard")
 
 st.markdown("this is an image: \n \
-            ![](https://www.tjnu.edu.cn/__local/2/AE/41/C1274DD9685B10B9F814C69BEDB_84ADD00D_88D66.png)")
+            ![](https://nie.res.netease.com/r/pic/20231107/0338737b-386d-4a40-b2ab-14be53dabd5e.jpg)")
 
 if st.checkbox("Show/Hide"):
     st.text("You checked the box")
